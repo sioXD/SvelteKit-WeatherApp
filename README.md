@@ -2,7 +2,8 @@
 
 ## start program
 
-- clone Repo: `git clone ...`
+- clone Repo: `git clone https://github.com/sioXD/SvelteKit-WeatherApp.git`
+- install dependencies: `npm install`
 - create API Key at [OpenWeatherMap](https://openweathermap.org/api) 
 - create `.env` ->
 
